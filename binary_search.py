@@ -1,4 +1,4 @@
-#only to be used with a list sorted in ascending order
+# only to be used with a list sorted in ascending order
 def search(l, element):
     if len(l) == 1:
         return l[0] == element
