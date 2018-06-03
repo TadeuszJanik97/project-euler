@@ -1,5 +1,4 @@
 ret = 0
-
 for p1 in range(0, 201):
     total = p1
     for p2 in range(0, (200 - total) // 2 + 1):
